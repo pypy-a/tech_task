@@ -1,8 +1,8 @@
 name: Build
 
-on: [push]
+#on: [push]
 
-jobs:
+#jobs:
   aws_cdk:
     runs-on: ubuntu-latest
     steps:
