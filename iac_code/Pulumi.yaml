@@ -1,3 +1,0 @@
-name: iac_code
-runtime: nodejs
-description: creating S3 bucket for tech task
