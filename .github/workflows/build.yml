@@ -18,10 +18,3 @@ jobs:
     steps:
       - name: Clone git repo
         uses: actions/checkout@v1
-        
-      - name: Build
-        uses:
-        
-      - name: 
-        uses:
-       
